@@ -22,6 +22,6 @@ This a simple React Search app and algorathims that uses external api to fetch f
 ### Executing program
 
 * How to run the program:
-Next to start the program you just enter the commend: ```npm start````
+Next to start the program you just enter the commend: ```npm start```
 
 For more help you can contact me on linkedin : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/markos-bahgat-9a7178216//) 
